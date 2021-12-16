@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Ethan Cho
 
-- 🌱 I’m currently learning Web Development, Algorithms, and Data Structures
+- 🌱 I’m currently learning Web Development, Algorithms, Data Structures, and Python!
 
 - 🔭 I’m currently working on teaching my bootcamp graduate peers about Algorithms and Data Structures for technical interviews. I'm also working on a social media app called cactus social as well as a tinder clone app called sheltr
 
