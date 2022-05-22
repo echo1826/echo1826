@@ -20,7 +20,7 @@ My name is Ethan Cho
 
 - I'm working as a Teaching Assistant and Tutor for a Coding Boot Camp
 
-- 🔭 I'm developing a social media app called cactus social as well as a tinder clone app called sheltr
+- 🔭 I'm learning Python as a second language and trying to improve it to the same proficiency as my JavaScript skills
 
 - Languages and Technologies: JavaScript, C++, React, Node.js, HTML5, CSS, Express, MongoDB, MySQL, GraphQL, Heroku, Git, Bash, Bootstrap
 
