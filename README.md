@@ -22,7 +22,7 @@ My name is Ethan Cho
 
 - 🔭 I'm learning Python as a second language and trying to improve it to the same proficiency as my JavaScript skills
 
-- Languages and Technologies: JavaScript, C++, React, Node.js, HTML5, CSS, Express, MongoDB, MySQL, GraphQL, Heroku, Git, Bash, Bootstrap
+- Languages and Technologies: JavaScript, Python, C++, React, Node.js, HTML5, CSS, Express, MongoDB, MySQL, GraphQL, Heroku, Git, Bash, Bootstrap
 
 - I'm looking to collaborate on anything written in JavaScript or a project that would impact the world in a postive way
 
