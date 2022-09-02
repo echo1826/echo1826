@@ -20,9 +20,9 @@ My name is Ethan Cho
 
 - I'm working as a Teaching Assistant and Tutor for a Coding Boot Camp
 
-- 🔭 I'm learning Python as a second language and trying to improve it to the same proficiency as my JavaScript skills
+- 🔭 I'm learning Python and TypeScript
 
-- Languages and Technologies: JavaScript, Python, C++, React, Node.js, HTML5, CSS, Express, MongoDB, MySQL, GraphQL, Heroku, Git, Bash, Bootstrap
+- Current Languages & Technologies: JavaScript, Python, Solidity, C++, React, Node.js, HTML5, CSS, Express, MongoDB, MySQL, GraphQL, web3, Heroku, Git, Bash, Bootstrap, Jest, Mocha, SemanticUI, Socket.io, Materialize, Apollo
 
 - I'm looking to collaborate on anything written in JavaScript or a project that would impact the world in a postive way
 
