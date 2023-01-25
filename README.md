@@ -18,7 +18,7 @@ My name is Ethan Cho
 
 - 🌱 Web Developer
 
-- I'm working as a Teaching Assistant and Tutor for a Coding Boot Camp
+- I'm working as a Teaching Assistant and Tutor for the Coding Boot Camps for 2U/edx
 
 - 🔭 I'm learning Python and TypeScript
 
