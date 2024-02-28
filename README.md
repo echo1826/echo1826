@@ -24,6 +24,4 @@ My name is Ethan Cho
 
 - Current Languages & Technologies: JavaScript, Python, Solidity, C++, React, Node.js, HTML5, CSS, Express, MongoDB, MySQL, GraphQL, web3, Heroku, Git, Bash, Bootstrap, Jest, Mocha, SemanticUI, Socket.io, Materialize, Apollo
 
-- I'm looking to collaborate on anything written in JavaScript or a project that would impact the world in a postive way
-
 - 📫 You can reach me at <ethan.cho1826@gmail.com>, or check out my portfolio which has all my socials! <https://ethan-cho.netlify.app>
