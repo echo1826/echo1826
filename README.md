@@ -18,10 +18,12 @@ My name is Ethan Cho
 
 - 🌱 Web Developer
 
-- I'm working as an Instructor for the Coding Boot Camps for 2U/edx
+- Software Developer for MyCHN
 
-- 🔭 I'm learning Python and TypeScript
+- Current Languages: JavaScript, TypeScript, Python, Node.js, MySQL, C++
 
-- Current Languages & Technologies: JavaScript, Python, Solidity, C++, React, Node.js, HTML5, CSS, Express, MongoDB, MySQL, GraphQL, web3, Heroku, Git, Bash, Bootstrap, Jest, Mocha, SemanticUI, Socket.io, Materialize, Apollo
+- Current Frameworks: React, Vite, Express.js, gRPC, GraphQL
 
-- 📫 You can reach me at <ethan.cho1826@gmail.com>, or check out my portfolio which has all my socials! <https://ethan-cho.netlify.app>
+- Current Testing Suites: Jest, Mocha, Vitest
+
+- Current Component Libraries: MaterialUI
